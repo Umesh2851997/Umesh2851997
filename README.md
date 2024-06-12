@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Umeshmakkar
+- 👋 Hi, I’m @Umeshmakkar 
 - 👀 I’m Data Science Trainee
 - 🌱 I’m currently learning various Data science & Machine Learning techniques.
-- 💞️ I’m looking to collaborate on Data Science & Machine Learning Projects
+- 💞️ I’m looking to collaborate on Data Science & Machine Learning Projects.
+- 💞️ As a data science trainee at AlmaBetter, I have gained hands-on expertise in programming with Python and developing supervised and unsupervised algorithms for data analysis and predictive modeling. I have also acquired proficiency in a wide array of data science skills, such as SQL, data wrangling, feature engineering, data preprocessing, and data modeling.
 - 📫 How to reach me 9782831455
 
 <!---
